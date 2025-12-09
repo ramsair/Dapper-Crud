@@ -1,0 +1,46 @@
+@Dapper_Crud_HostAddress = http://localhost:5200
+
+GET {{Dapper_Crud_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{Dapper_Crud_HostAddress}}/weatherforecast/TestAPICreation
+Accept: application/json
+
+###
+
+
+### POST
+POST {{Dapper_Crud_HostAddress}}/weatherforecast/posts
+Content-Type: application/json
+
+{
+  "sample": "value"
+}
+
+###
+
+### PUT
+PUT {{Dapper_Crud_HostAddress}}/weatherforecast/update/1
+Content-Type: application/json
+
+{
+  "updatedField": "new value"
+}
+
+###
+
+### PATCH
+PATCH {{Dapper_Crud_HostAddress}}/weatherforecast/patch/1
+Content-Type: application/json
+
+{
+  "partialField": "patched value"
+}
+
+###
+
+### DELETE
+DELETE {{Dapper_Crud_HostAddress}}/weatherforecast/delete/1
+Accept: application/json

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\Desktop\\dapper\\Dapper_CrudOperations\\Dapper_Crud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F46FBC73-F64C-4338-9DD8-5F4196CDCCC3}|Dapper_Crud.csproj|c:\\users\\dell\\desktop\\dapper\\dapper_crudoperations\\dapper_crud\\controllers\\districtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F46FBC73-F64C-4338-9DD8-5F4196CDCCC3}|Dapper_Crud.csproj|solutionrelative:controllers\\districtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F46FBC73-F64C-4338-9DD8-5F4196CDCCC3}|Dapper_Crud.csproj|c:\\users\\dell\\desktop\\dapper\\dapper_crudoperations\\dapper_crud\\repositories\\districtrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F46FBC73-F64C-4338-9DD8-5F4196CDCCC3}|Dapper_Crud.csproj|solutionrelative:repositories\\districtrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F46FBC73-F64C-4338-9DD8-5F4196CDCCC3}|Dapper_Crud.csproj|c:\\users\\dell\\desktop\\dapper\\dapper_crudoperations\\dapper_crud\\interfaces\\idistrictrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F46FBC73-F64C-4338-9DD8-5F4196CDCCC3}|Dapper_Crud.csproj|solutionrelative:interfaces\\idistrictrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F46FBC73-F64C-4338-9DD8-5F4196CDCCC3}|Dapper_Crud.csproj|c:\\users\\dell\\desktop\\dapper\\dapper_crudoperations\\dapper_crud\\models\\district.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F46FBC73-F64C-4338-9DD8-5F4196CDCCC3}|Dapper_Crud.csproj|solutionrelative:models\\district.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DistrictController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\dapper\\Dapper_CrudOperations\\Dapper_Crud\\Controllers\\DistrictController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DistrictController.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\dapper\\Dapper_CrudOperations\\Dapper_Crud\\Controllers\\DistrictController.cs",
+              "RelativeToolTip": "Controllers\\DistrictController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T11:29:14.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DistrictRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\dapper\\Dapper_CrudOperations\\Dapper_Crud\\Repositories\\DistrictRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\DistrictRepository.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\dapper\\Dapper_CrudOperations\\Dapper_Crud\\Repositories\\DistrictRepository.cs",
+              "RelativeToolTip": "Repositories\\DistrictRepository.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAgwDUAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T11:24:08.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDistrictRepo.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\dapper\\Dapper_CrudOperations\\Dapper_Crud\\Interfaces\\IDistrictRepo.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IDistrictRepo.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\dapper\\Dapper_CrudOperations\\Dapper_Crud\\Interfaces\\IDistrictRepo.cs",
+              "RelativeToolTip": "Interfaces\\IDistrictRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T11:22:53.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "District.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\dapper\\Dapper_CrudOperations\\Dapper_Crud\\Models\\District.cs",
+              "RelativeDocumentMoniker": "Models\\District.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\dapper\\Dapper_CrudOperations\\Dapper_Crud\\Models\\District.cs*",
+              "RelativeToolTip": "Models\\District.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T11:21:11.913Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
