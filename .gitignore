@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Dapper_Crud/.vs
+/Dapper_Crud/bin/Debug/net9.0
+/Dapper_Crud/obj
